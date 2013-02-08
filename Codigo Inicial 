@@ -1,8 +1,21 @@
 <html>
 <head>
-<title> Viajes Acropolis </title>
+     <title> Viajes Acropolis </title>
 </head>
-
 <body>
+   <div id="principal">
+       <div id="cabecera">
+       </div>
+       <div id="cuerpo">
+           <div id="banner">
+           </div>
+           <div id="izquierda">
+           </div>
+           <div id="derecha">
+           </div>
+       </div>
+       <div id="pie">
+       </div>
+   </div>
 </body>
 </html>
