@@ -1,0 +1,73 @@
+*{
+  margin: none;
+	padding:none;
+	
+}
+
+body{
+	background-color: #14D6F5;
+	background-image:url("fondo.png");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+div#principal{
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-color: red;
+	height: 100%;
+	-moz-opacity:.8;
+	opacity:.8;
+}
+
+div#cabecera{
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-color: green;
+	height:150px;
+}
+
+div#cuerpo{
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-color: yellow;
+	height:800px;
+}
+
+div#banner{
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-color: blue;
+	height:150px;
+	
+}
+
+div#izquierda{
+
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-color: gray;
+	height:550px;
+	width:27%;
+	float:left;
+
+}
+
+div#derecha{
+
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-color: gray;
+	height:550px;
+	width:66.5%;
+	float:left;
+
+}
+
+div#pie{
+	
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-color: purple;
+	height:100px;
+}
