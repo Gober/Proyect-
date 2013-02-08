@@ -1,21 +1,28 @@
+<!DOCTYPE HTML>
 <html>
 <head>
      <link rel="shortcut icon" href="http://files.myopera.com/G0B3R/albums/13598832/Icono.png" type="image/x-icon"/>
-	<title> Viajes Acropolis </title>
+	 <title> Viajes Acropolis </title>
+	 <link type="text/css" rel="stylesheet" href="index.css" />
 </head>
 <body>
    <div id="principal">
        <div id="cabecera">
+	   <h1>Soy la cabecera</h1>
        </div>
        <div id="cuerpo">
            <div id="banner">
+		   <h1>Soy el baner</h1>
            </div>
            <div id="izquierda">
+		   <h1>No se que soy</h1>
            </div>
            <div id="derecha">
+		   <h1><-- Soy su hermano</h1>
            </div>
        </div>
        <div id="pie">
+	   <h1>CloudWare S.C</h1>
        </div>
    </div>
 </body>
