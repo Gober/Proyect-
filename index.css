@@ -1,23 +1,21 @@
 *{
-  margin: none;
+	margin: none;
 	padding:none;
 	
 }
 
 body{
-	background-color: #14D6F5;
+	background-color: #E6E6E6;
 	background-image:url("fondo.png");
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 }
 
 div#principal{
-	margin: 10px 10px 10px 10px;
+	margin: 10px 10px 0px 10px;
 	padding: 10px 10px 10px 10px;
 	background-color: red;
 	height: 100%;
-	-moz-opacity:.8;
-	opacity:.8;
 }
 
 div#cabecera{
@@ -68,6 +66,7 @@ div#pie{
 	
 	margin: 10px 10px 10px 10px;
 	padding: 10px 10px 10px 10px;
-	background-color: purple;
+	background-image: url("Pie.jpg");
+	background-attachment: fixed;
 	height:100px;
 }
