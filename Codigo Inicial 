@@ -8,9 +8,11 @@
 </head>
 <body>
     <div id="cabecera">
-           <br>
-           <img src="http://files.myopera.com/G0B3R/albums/13598832/Menu.png">
+		<div id="fondo">
+           <img class="imgcabecera" src="http://files.myopera.com/G0B3R/albums/13598832/Menu.png">
+		</div>   
     </div>
+	<!--
     <div id="principal">
            <div id="cuerpo">
                <div id="banner">
@@ -26,6 +28,6 @@
            <div id="pie">
            <h1>CloudWare S.C</h1>
            </div> 
-        </div> 
+        </div> -->
 </body>
 </html>
