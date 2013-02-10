@@ -1,29 +1,31 @@
-*{
-	margin: none;
-	padding:none;
-	
-}
-
 body{
 	background-color: #E6E6E6;
 	background-image:url("fondo.png");
 	background-attachment: fixed;
 	background-repeat: no-repeat;
+	
 }
 
-div#principal{
-	margin: 10px 10px 0px 10px;
-	padding: 10px 10px 10px 10px;
-	background-color: red;
-	height: 100%;
-}
 
 div#cabecera{
-	margin: 10px 10px 10px 10px;
-	padding: 10px 10px 10px 10px;
-	background-color: green;
-	height:150px;
+	position:relative;
+	margin: -10px 259px 0px 259px;
+	padding: 0px;
+	background-image: url("http://files.myopera.com/G0B3R/albums/13598832/Header.png");
+	height:155px;
 }
+
+
+div#principal{
+	margin-top: -10px;
+	margin-right: 260px;
+	margin-left: 260px;;
+	margin-bottom: 10px;
+	padding: 10px 10px 10px 10px;
+	background-color: #FFF;
+	
+}
+
 
 div#cuerpo{
 	margin: 10px 10px 10px 10px;
@@ -37,7 +39,7 @@ div#banner{
 	padding: 10px 10px 10px 10px;
 	background-color: blue;
 	height:150px;
-	
+
 }
 
 div#izquierda{
@@ -63,10 +65,10 @@ div#derecha{
 }
 
 div#pie{
-	
+
 	margin: 10px 10px 10px 10px;
 	padding: 10px 10px 10px 10px;
-	background-image: url("Pie.jpg");
+	background-image: url("http://files.myopera.com/G0B3R/albums/13598832/Header.png");
 	background-attachment: fixed;
 	height:100px;
 }
