@@ -10,11 +10,20 @@ body{
 div#cabecera{
 	position:relative;
 	margin: -10px 259px 0px 259px;
-	padding: 0px;
-	background-image: url("http://files.myopera.com/G0B3R/albums/13598832/Header.png");
+	//padding: 0px 0px 0px 0px ;
 	height:155px;
 }
 
+div#fondo{
+	background-image: url("http://files.myopera.com/G0B3R/albums/13598832/Header.png");
+	height: 65%;
+}
+
+img.imgcabecera{
+	width:100%;
+	max-width:10000px;
+	max-height:155px;
+}
 
 div#principal{
 	margin-top: -10px;
