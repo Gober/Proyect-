@@ -16,13 +16,20 @@ div#cabecera{
 
 div#fondo{
 	background-image: url("http://files.myopera.com/G0B3R/albums/13598832/Header.png");
-	height: 65%;
+	height: 60%;
+	max-width:1370px;
+	max-height:100px;
+	min-width:900px;
+	min-height:90px;
+	
 }
 
 img.imgcabecera{
 	width:100%;
-	max-width:10000px;
+	max-width:1370px;
 	max-height:155px;
+	min-width:900px;
+	min-height:100px;
 }
 
 div#principal{
