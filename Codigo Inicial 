@@ -12,8 +12,7 @@
            <img class="imgcabecera" src="http://files.myopera.com/G0B3R/albums/13598832/Menu.png">
 		</div>   
     </div>
-	<!--
-    <div id="principal">
+    <div id="principal"> <!-- Esto es donde va toda la informacion  
            <div id="cuerpo">
                <div id="banner">
                <h1>Soy el baner</h1>
@@ -27,7 +26,7 @@
            </div>
            <div id="pie">
            <h1>CloudWare S.C</h1>
-           </div> 
-        </div> -->
+           </div>-->
+        </div>
 </body>
 </html>
