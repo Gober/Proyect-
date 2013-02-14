@@ -3,7 +3,7 @@ body{
 	background-image:url("fondo.png");
 	background-attachment: fixed;
 	background-repeat: no-repeat;
-	
+
 }
 
 
@@ -21,7 +21,7 @@ div#fondo{
 	max-height:100px;
 	min-width:900px;
 	min-height:90px;
-	
+
 }
 
 img.imgcabecera{
@@ -33,13 +33,16 @@ img.imgcabecera{
 }
 
 div#principal{
-	margin-top: -10px;
-	margin-right: 260px;
-	margin-left: 260px;;
+	margin-top: -65px;
+	//width:800px;
+	margin-right: 259px;
+	margin-left: 259px;
 	margin-bottom: 10px;
 	padding: 10px 10px 10px 10px;
-	background-color: #FFF;
-	
+	background-color: blue;ç
+	position:absolute;
+	z-index: -1;
+
 }
 
 
